@@ -2,7 +2,7 @@
 ## Jido Ecosystem
 [![Jido Ecosystem](img/021-jido-ecosystem.png)](https://jido.run/ecosystem)
 
-* [AI agents on Erlang/OTP runtime](https://claude.ai/chat/05293b23-92ab-4f4c-b7ec-d1d6f8acd496)
+* [AI agents on Erlang/OTP runtime](chats/erlang-otp-ai-agent-frameworks.md)
   * github: [jido](https://github.com/agentjido/jido)
   * github: [jido_ai](https://github.com/agentjido/jido_ai)
   * vid: [Jido: An introduction to Autonomous Agents with Elixir - Elixir Montreal (2025-08)](https://www.youtube.com/watch?v=qi0Hl_RSbAU)

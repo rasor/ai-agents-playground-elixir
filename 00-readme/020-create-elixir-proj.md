@@ -44,7 +44,8 @@ We want a genserver as the worker for ???
 
 
 # HowTos
-* [Elixir Project Scaffolding](https://chatgpt.com/c/6ab602c3-b070-83ed-b70d-4a6b131aca06)
+* [Elixir Project Scaffolding](chats/elixir_erlang_mix_chat.md)
+* [GenServer + Supervision for AI Agents in Elixir](chats/elixir-genserver-ai-agents.md)
 
 # Tools
 * [Erlang package registry](https://hex.pm/) - Like Like NPMjs.com
