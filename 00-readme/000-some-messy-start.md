@@ -7,3 +7,8 @@
 
 * When Erlang and when Elixir? [Compare Erlang And Elixir](chats/erlang_vs_elixir_chat.md)
 * Which tools for Elixir? [Elixir, Mix, and Erlang/OTP](chats/elixir_erlang_mix_chat.md)
+
+# Ask
+* Browse to [Vibrant Ecosystem](https://elixirschool.com/en/why)
+
+---
