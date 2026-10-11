@@ -185,3 +185,11 @@ mix test
 #      warning: :public_key.cacerts_get/0 is undefined (module :public_key is not available or is yet to be defined)
 #      warning: :public_key.pkix_verify_hostname_match_fun/1 is undefined (module :public_key is not available or is yet to be defined)
 ```
+
+Add module for our agent
+```bash
+cd .\lib
+md agents
+
+# add calculator_agent --module CalculatorAgent
+```

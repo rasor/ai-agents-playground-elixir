@@ -141,6 +141,8 @@ We want a genserver as the worker for [agents](chats/elixir-genserver-ai-agents.
 
 # HowTos
 * [Elixir Project Scaffolding](chats/elixir_erlang_mix_chat.md)
+* [Debugging Elixir in VS Code](https://medium.com/@JakeBeckerCode/debugging-elixir-in-vs-code-400e21814614)
+  * using [ElixirLS VSCode extension](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls)
 * [GenServer + Supervision for AI Agents in Elixir](chats/elixir-genserver-ai-agents.md)
 
 # Tools

@@ -57,3 +57,8 @@ mix archive.install hex igniter_new
 # example usage:
 mix igniter.new app_name --install ash,ecto
 ```
+
+In VSCode add extension [ElixirLS](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls).  
+It enables debugging and more.  
+
+---
