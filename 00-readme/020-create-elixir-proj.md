@@ -143,7 +143,10 @@ We want a genserver as the worker for [agents](chats/elixir-genserver-ai-agents.
 * [Elixir Project Scaffolding](chats/elixir_erlang_mix_chat.md)
 * [Debugging Elixir in VS Code](https://medium.com/@JakeBeckerCode/debugging-elixir-in-vs-code-400e21814614)
   * using [ElixirLS VSCode extension](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls)
+  * [Debug code with Visual Studio Code](https://code.visualstudio.com/docs/debugtest/debugging)
 * [GenServer + Supervision for AI Agents in Elixir](chats/elixir-genserver-ai-agents.md)
+* [Developing inside a Container](https://code.visualstudio.com/docs/devcontainers/containers)
+* Testing Agents - [Make Coding Agents Build the Right Thing — ATDD in Elixir](https://www.youtube.com/watch?v=JkPhb3jp19g)
 
 # Tools
 * [Erlang package registry](https://hex.pm/) - Like Like NPMjs.com

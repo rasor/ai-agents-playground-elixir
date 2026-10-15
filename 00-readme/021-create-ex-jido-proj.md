@@ -193,3 +193,11 @@ md agents
 
 # add calculator_agent --module CalculatorAgent
 ```
+
+## Agent Templates
+* [Agent Examples](https://github.com/agentjido/jido_ai/tree/main/examples/lib/agents)
+
+## Learn
+* [jido-ai](https://jido-ai.hexdocs.pm/readme.html)
+
+---
